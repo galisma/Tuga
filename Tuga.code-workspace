@@ -4,5 +4,9 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"C_Cpp.default.includePath": [
+			"${workspaceFolder}/Tuga/src"
+		]
+	}
 }

@@ -1,5 +1,5 @@
-#include "Tuga/Test.h"
+#include "../Tuga/Test.h"
 int main(){
 
-    Tuga::print();
+    Tuga::Print();
 }
